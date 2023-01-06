@@ -7,3 +7,6 @@ The main tool needed for you to follow this project is:
 2. Truffle Ganache
 3. Meta Mask Extension
 4. A Basic Idea about Solidity Language
+
+
+If you are looking for a small project to get started with Blockchain. This is the project for you
